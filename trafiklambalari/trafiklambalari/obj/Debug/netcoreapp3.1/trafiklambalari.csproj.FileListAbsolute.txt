@@ -1,0 +1,16 @@
+C:\Users\303MİKDAT_AKSAM\Source\Repos\trafiklambalari\trafiklambalari\bin\Debug\netcoreapp3.1\trafiklambalari.exe
+C:\Users\303MİKDAT_AKSAM\Source\Repos\trafiklambalari\trafiklambalari\bin\Debug\netcoreapp3.1\trafiklambalari.deps.json
+C:\Users\303MİKDAT_AKSAM\Source\Repos\trafiklambalari\trafiklambalari\bin\Debug\netcoreapp3.1\trafiklambalari.runtimeconfig.json
+C:\Users\303MİKDAT_AKSAM\Source\Repos\trafiklambalari\trafiklambalari\bin\Debug\netcoreapp3.1\trafiklambalari.runtimeconfig.dev.json
+C:\Users\303MİKDAT_AKSAM\Source\Repos\trafiklambalari\trafiklambalari\bin\Debug\netcoreapp3.1\trafiklambalari.dll
+C:\Users\303MİKDAT_AKSAM\Source\Repos\trafiklambalari\trafiklambalari\bin\Debug\netcoreapp3.1\trafiklambalari.pdb
+C:\Users\303MİKDAT_AKSAM\Source\Repos\trafiklambalari\trafiklambalari\obj\Debug\netcoreapp3.1\trafiklambalari.csproj.AssemblyReference.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\trafiklambalari\trafiklambalari\obj\Debug\netcoreapp3.1\trafiklambalari.Form1.resources
+C:\Users\303MİKDAT_AKSAM\Source\Repos\trafiklambalari\trafiklambalari\obj\Debug\netcoreapp3.1\trafiklambalari.csproj.GenerateResource.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\trafiklambalari\trafiklambalari\obj\Debug\netcoreapp3.1\trafiklambalari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\303MİKDAT_AKSAM\Source\Repos\trafiklambalari\trafiklambalari\obj\Debug\netcoreapp3.1\trafiklambalari.AssemblyInfoInputs.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\trafiklambalari\trafiklambalari\obj\Debug\netcoreapp3.1\trafiklambalari.AssemblyInfo.cs
+C:\Users\303MİKDAT_AKSAM\Source\Repos\trafiklambalari\trafiklambalari\obj\Debug\netcoreapp3.1\trafiklambalari.csproj.CoreCompileInputs.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\trafiklambalari\trafiklambalari\obj\Debug\netcoreapp3.1\trafiklambalari.dll
+C:\Users\303MİKDAT_AKSAM\Source\Repos\trafiklambalari\trafiklambalari\obj\Debug\netcoreapp3.1\trafiklambalari.pdb
+C:\Users\303MİKDAT_AKSAM\Source\Repos\trafiklambalari\trafiklambalari\obj\Debug\netcoreapp3.1\trafiklambalari.genruntimeconfig.cache
